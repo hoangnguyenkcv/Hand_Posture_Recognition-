@@ -1,0 +1,8 @@
+
+git init
+git status 
+git add . 
+git status 
+git commit -m "commit  to repository"
+git remote add GITHUB https://github.com/hoangnguyenkcv/Live_demo_GCS_project.git
+git push -u GITHUB master
